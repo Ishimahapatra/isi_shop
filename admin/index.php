@@ -63,7 +63,11 @@ require_once '../components/ifLogin.php';
   <div class="row justify-content-center w-100 bg-white">
     <!-- Left Side Image -->
     <div class="col-sm-6 col-md-7 col-lg-8 d-none d-md-block section-1">
+<<<<<<< HEAD
       <img src="<?= $baseurl ?>img/side_img.png" alt="HOSPITAX" class="img-fluid login-side-img">
+=======
+      <img src="<?= $baseurl ?>img/side_img.png" alt="ISIKA MAHAPATRA" class="img-fluid login-side-img">
+>>>>>>> f0038a6f51c4057b9aa5ee17b962303d34745f80
     </div>
 
     <!-- Login Form -->
