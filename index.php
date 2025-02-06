@@ -9,6 +9,9 @@
 
 <body>
     <?php require_once('./components/header.php'); ?>
+    <div class="container">
+        <h1 class="text-center">Welcome to my Home page</h1>
+    </div>
     <?php require_once('./components/footer_script.php'); ?>
 </body>
 
