@@ -13,7 +13,6 @@ This is a **complete Shopping Cart project** built using **Core PHP and AJAX**. 
 ### 🔹 **Backend (Admin Panel)**
 - **CRUD Operations** (Create, Read, Update, Delete) for products using AJAX.
 - Secure **Admin Login** system.
-- Dynamic **product management dashboard**.
 - **AJAX-based operations** (no page reloads).
 
 ## 📷 Screenshots
