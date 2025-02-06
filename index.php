@@ -9,11 +9,6 @@
 
 <body>
     <?php require_once('./components/header.php'); ?>
-    <div class="container">
-<<<<<<< HEAD
-        <h1 class="text-center">Welcome to ISI Shoping</h1>
-    </div>
-
     <!-- Hero Section -->
     <section class="hero bg-primary text-white text-center py-5">
         <div class="container">
@@ -83,10 +78,6 @@
         <p class="lead">Browse through thousands of products and get amazing deals.</p>
         <a href="./products.php" class="btn btn-primary btn-lg">Start Shopping</a>
     </section>
-=======
-        <h1 class="text-center">Welcome to my Home page</h1>
-    </div>
->>>>>>> f0038a6f51c4057b9aa5ee17b962303d34745f80
     <?php require_once('./components/footer_script.php'); ?>
 </body>
 
