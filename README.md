@@ -25,7 +25,7 @@ This is a **complete Shopping Cart project** built using **Core PHP and AJAX**. 
 | ⚙️ **Backend Product Management** | ![Backend Products](img/screenshots/backend_products.png) |
 | 🛒 **Cart Page** | ![Cart Page](img/screenshots/cart.png) |
 | 🔍 **Product View Modal** | ![Product Modal](img/screenshots/product_modal.png) |
-| 🛍️ **Frontend Product Page** | ![Backend Products Edit](img/screenshots/product_edit_modal.png) |
+| 🛍️ **Backend Edit Page** | ![Backend Products Edit](img/screenshots/product_edit_modal.png) |
 
 > 📌 **Note:** Add screenshots in the `screenshots/` folder in your project and update the paths accordingly.
 
