@@ -17,12 +17,12 @@ require_once '../components/dbconnect.php';
     <div class="">
       <div class="card">
         <div class="card-header">
-          <div class="position-relative py-3">
+          <h2 class="position-relative py-3">
             Products
             <span class="position-absolute end-0">
               <a type="button" class="btn btn-primary btn-sm" data-coreui-toggle="modal" data-coreui-target="#productModal"><i class="fa fa-plus"></i> Add</a>
             </span>
-          </div>
+          </h2>
         </div>
         <div class="card-body">
           <div class="table-responsive">

@@ -63,13 +63,13 @@ require_once '../components/ifLogin.php';
   <div class="row justify-content-center w-100 bg-white">
     <!-- Left Side Image -->
     <div class="col-sm-6 col-md-7 col-lg-8 d-none d-md-block section-1">
-      <img src="<?= $baseurl ?>img/hospital3.jpg" alt="HOSPITAX" class="img-fluid login-side-img">
+      <img src="<?= $baseurl ?>img/side_img.png" alt="HOSPITAX" class="img-fluid login-side-img">
     </div>
 
     <!-- Login Form -->
     <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 align-content-center section-2">
       <div class="container section-2-1">
-        <a href="<?= $baseurl ?>index.html"></a>
+        <a href="<?= $baseurl ?>index.php"></a>
         <!-- Alert -->
         <?php
         if (isset($_SESSION['message'])) {
@@ -82,7 +82,7 @@ require_once '../components/ifLogin.php';
         }
         ?>
         <div class="text-center w-100 content-center align-items-center mb-3">
-          <a href="<?= $baseurl ?>index.html">
+          <a href="<?= $baseurl ?>index.php">
             <img src="<?= $baseurl ?>img/favicon/android-chrome-512x512.png" width="100" alt="HOSPITAX SYSTEM">
           </a>
         </div>

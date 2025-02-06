@@ -8,7 +8,7 @@
   <div class="sidebar-header border-bottom py-0">
     <div class="sidebar-brand">
       <div class="nav-logo">
-        <a href="<?= $baseurl ?>index.html">
+        <a href="<?= $baseurl ?>index.php">
           <img src="<?= $baseurl ?>img/logo.png" alt="Logo" style="width: 90px; height: auto;">
         </a>
       </div>

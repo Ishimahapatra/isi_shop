@@ -21,6 +21,7 @@ require_once '../components/dbconnect.php';
         Welcome to ISI Shoping Project Dashboard
       </h1>
     </div>
+    
   </div>
   <?php require_once('../components/footer_script.php'); ?>
 </body>
