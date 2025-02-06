@@ -1,0 +1,18 @@
+body{
+  background: #fbfbfb;
+}
+.sidebar {
+  width: 250px;
+  transition: transform 0.3s ease;
+  transform: translateX(-100%);
+  position: fixed;
+  height: 100%;
+  background: #f8f9fa;
+  padding: 15px;
+  top: 0;
+  bottom: 0;
+}
+
+.sidebar.show {
+  transform: translateX(0);
+}
